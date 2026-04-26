@@ -23,6 +23,6 @@ I plan to add:
 •	Add IP/subnet filtering \
 •	Implement rule priority levels \
 •	Support stateful inspection \
-•	Add logging and visualization \
+•	Add logging and visualization 
   
 In this github I included rules and traffic in csv format in case you want to try it out!
