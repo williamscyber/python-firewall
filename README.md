@@ -15,8 +15,8 @@ What it does is: \
 •	prints the result in a readable format 
 
 The traffic is outputed in this format: \
-10.4.5.32 -> 192.168.2.30 UDP/51820 (Wireguard) [Possible VPN (WireGuard)] : ALLOW \
-10.4.5.33 -> 192.168.2.31 TCP/3389 (RDP) : DENY \
+`10.4.5.32 -> 192.168.2.30 UDP/51820 (Wireguard) [Possible VPN (WireGuard)] : ALLOW` \
+`10.4.5.33 -> 192.168.2.31 TCP/3389 (RDP) : DENY` \
 At the end I made sure to include how many flows were allowed/denied and flagged potential VPN users.
 
 I plan to add:
