@@ -19,7 +19,7 @@ The traffic is outputed in this format: \
 `10.4.5.33 -> 192.168.2.31 TCP/3389 (RDP) : DENY` \
 At the end I made sure to include how many flows were allowed/denied and flagged potential VPN users.
 
-I plan to add:
+I plan to add: \
 •	Add IP/subnet filtering \
 •	Implement rule priority levels \
 •	Support stateful inspection \
